@@ -32,7 +32,7 @@ A secure MySQL Model Context Protocol (MCP) server with configurable permission 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mysql-mcp-server-secure.git
+git clone https://github.com/lmaonewhow/mysql-mcp-server-secure.git
 cd mysql-mcp-server-secure
 
 # Install dependencies
@@ -190,7 +190,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/mysql-mcp-server-secure.git
+git clone https://github.com/lmaonewhow/mysql-mcp-server-secure.git
 cd mysql-mcp-server-secure
 
 # 安装依赖
