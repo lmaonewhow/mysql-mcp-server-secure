@@ -5,3 +5,6 @@
 @d r 0=0;1=1;2=2;3=3
 cl_20260206_0001|2026-02-06T05:31:00-07:00|feat|mysql-mcp-server-secure|add_secure_mysql_mcp_server_with_permission_controls|cascade|deliver_mcp_server|package.json@0,tsconfig.json@0,src/index.ts@0,README.md@0,package-lock.json@0,dist/index.js@0,dist/index.d.ts@0,dist/index.d.ts.map@0,dist/index.js.map@0|1|npm_install_and_npm_run_build
 cl_20260206_0002|2026-02-06T10:31:00-07:00|docs|mysql-mcp-server-secure|refresh_readme_with_bilingual_structure_and_sanitized_examples_add_gitignore|cascade|improve_docs|README.md@1,.gitignore@0,CHANGELOG.md@1,changelog.compact@1|1|manual_review
+cl_20260206_0003|2026-02-06T10:47:00-07:00|docs|mysql-mcp-server-secure|update_clone_url_add_mit_license|cascade|improve_docs|README.md@1,LICENSE@0,CHANGELOG.md@1,changelog.compact@1|1|check_license_and_readme_url
+cl_20260208_0001|2026-02-08T18:20:00-07:00|feat|mysql-mcp-server-secure|add_multi_source_config_json_and_session_default_source_switching|cascade|deliver_multi_source|src/index.ts@1,README.md@1,CHANGELOG.md@1,changelog.compact@1|1|npm_run_build
+cl_20260209_0001|2026-02-09T01:05:00-07:00|fix|mysql-mcp-server-secure|remove_session_default_source_switching_require_explicit_source_for_non_default|cascade|stabilize_multi_source|src/index.ts@1,README.md@1,CHANGELOG.md@1,changelog.compact@1|1|npm_run_build
